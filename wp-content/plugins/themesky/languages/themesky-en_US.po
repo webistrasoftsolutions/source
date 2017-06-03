@@ -1,0 +1,829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeSky v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-10-24 16:36:48+0000\n"
+"Last-Translator: admin <tvduong90@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: register_post_type.php:78
+#: register_post_type.php:564
+#: register_post_type.php:725
+#@ themesky
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:79
+#: register_post_type.php:565
+#: register_post_type.php:726
+#@ themesky
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: register_post_type.php:80
+#: register_post_type.php:566
+#: register_post_type.php:727
+#@ themesky
+msgid "Search Categories"
+msgstr ""
+
+#: register_post_type.php:81
+#: register_post_type.php:567
+#: register_post_type.php:728
+#@ themesky
+msgid "All Categories"
+msgstr ""
+
+#: register_post_type.php:82
+#: register_post_type.php:568
+#: register_post_type.php:729
+#@ themesky
+msgid "Parent Category"
+msgstr ""
+
+#: register_post_type.php:83
+#: register_post_type.php:569
+#: register_post_type.php:730
+#@ themesky
+msgid "Parent Category:"
+msgstr ""
+
+#: register_post_type.php:84
+#: register_post_type.php:570
+#: register_post_type.php:731
+#@ themesky
+msgid "Edit Category"
+msgstr ""
+
+#: register_post_type.php:85
+#: register_post_type.php:571
+#: register_post_type.php:732
+#@ themesky
+msgid "Update Category"
+msgstr ""
+
+#: register_post_type.php:86
+#: register_post_type.php:572
+#: register_post_type.php:733
+#@ themesky
+msgid "Add New Category"
+msgstr ""
+
+#: register_post_type.php:87
+#: register_post_type.php:573
+#: register_post_type.php:734
+#@ themesky
+msgid "New Category Name"
+msgstr ""
+
+#: register_post_type.php:88
+#: register_post_type.php:574
+#: register_post_type.php:735
+#@ themesky
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:213
+#: register_post_type.php:472
+#: register_post_type.php:633
+#@ themesky
+msgid "Image"
+msgstr ""
+
+#: register_post_type.php:43
+#@ themesky
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:44
+#@ themesky
+msgctxt "post type singular name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:45
+#@ themesky
+msgid "All Portfolios"
+msgstr ""
+
+#: register_post_type.php:46
+#@ themesky
+msgctxt "Team"
+msgid "Add Portfolio"
+msgstr ""
+
+#: register_post_type.php:47
+#@ themesky
+msgid "Add Portfolio"
+msgstr ""
+
+#: register_post_type.php:48
+#@ themesky
+msgid "Edit Portfolio"
+msgstr ""
+
+#: register_post_type.php:49
+#@ themesky
+msgid "New Portfolio"
+msgstr ""
+
+#: register_post_type.php:50
+#@ themesky
+msgid "View Portfolio"
+msgstr ""
+
+#: register_post_type.php:51
+#@ themesky
+msgid "Search Portfolio"
+msgstr ""
+
+#: register_post_type.php:52
+#@ themesky
+msgid "No Portfolio found"
+msgstr ""
+
+#: register_post_type.php:53
+#@ themesky
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: register_post_type.php:55
+#@ themesky
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:57
+#@ themesky
+msgid "Portfolio"
+msgstr ""
+
+#: register_post_type.php:103
+#@ themesky
+msgid "Enter the portfolio title here"
+msgstr ""
+
+#: register_post_type.php:338
+#@ themesky
+msgctxt "post type general name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:339
+#@ themesky
+msgctxt "post type singular name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:340
+#@ themesky
+msgid "All Team Members"
+msgstr ""
+
+#: register_post_type.php:341
+#@ themesky
+msgctxt "Team"
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:342
+#@ themesky
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:343
+#@ themesky
+msgid "Edit Member"
+msgstr ""
+
+#: register_post_type.php:344
+#@ themesky
+msgid "New Member"
+msgstr ""
+
+#: register_post_type.php:345
+#@ themesky
+msgid "View Member"
+msgstr ""
+
+#: register_post_type.php:346
+#@ themesky
+msgid "Search Member"
+msgstr ""
+
+#: register_post_type.php:347
+#@ themesky
+msgid "No Member found"
+msgstr ""
+
+#: register_post_type.php:348
+#@ themesky
+msgid "No Member found in Trash"
+msgstr ""
+
+#: register_post_type.php:350
+#@ themesky
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:352
+#@ themesky
+msgid "Team"
+msgstr ""
+
+#: register_post_type.php:373
+#@ themesky
+msgid "Enter the member name here"
+msgstr ""
+
+#: register_post_type.php:472
+#@ themesky
+msgid "Role"
+msgstr ""
+
+#: register_post_type.php:474
+#@ themesky
+msgid "Member name"
+msgstr ""
+
+#: register_post_type.php:690
+#@ themesky
+msgctxt "post type general name"
+msgid "Logos"
+msgstr ""
+
+#: register_post_type.php:691
+#@ themesky
+msgctxt "post type singular name"
+msgid "Logo"
+msgstr ""
+
+#: register_post_type.php:692
+#: register_post_type.php:864
+#@ themesky
+msgctxt "logo"
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:693
+#@ themesky
+msgid "Add New Logo"
+msgstr ""
+
+#: register_post_type.php:694
+#@ themesky
+msgid "Edit Logo"
+msgstr ""
+
+#: register_post_type.php:695
+#@ themesky
+msgid "New Logo"
+msgstr ""
+
+#: register_post_type.php:696
+#@ themesky
+msgid "All Logos"
+msgstr ""
+
+#: register_post_type.php:697
+#@ themesky
+msgid "View Logo"
+msgstr ""
+
+#: register_post_type.php:698
+#@ themesky
+msgid "Search Logos"
+msgstr ""
+
+#: register_post_type.php:699
+#@ themesky
+msgid "No Logos Found"
+msgstr ""
+
+#: register_post_type.php:700
+#@ themesky
+msgid "No Logos Found In Trash"
+msgstr ""
+
+#: register_post_type.php:702
+#@ themesky
+msgid "Logos"
+msgstr ""
+
+#: register_post_type.php:749
+#: register_post_type.php:780
+#@ themesky
+msgid "Logo Settings"
+msgstr ""
+
+#: register_post_type.php:750
+#@ themesky
+msgid "Settings"
+msgstr ""
+
+#: register_post_type.php:783
+#@ themesky
+msgid "Image Size"
+msgstr ""
+
+#: register_post_type.php:784
+#@ themesky
+msgid "You must regenerate thumbnails after changing"
+msgstr ""
+
+#: register_post_type.php:788
+#@ themesky
+msgid "Image width"
+msgstr ""
+
+#: register_post_type.php:791
+#@ themesky
+msgid "Input image width (In pixels)"
+msgstr ""
+
+#: register_post_type.php:795
+#@ themesky
+msgid "Image height"
+msgstr ""
+
+#: register_post_type.php:798
+#@ themesky
+msgid "Input image height (In pixels)"
+msgstr ""
+
+#: register_post_type.php:802
+#@ themesky
+msgid "Crop"
+msgstr ""
+
+#: register_post_type.php:808
+#@ themesky
+msgid "Crop image after uploading"
+msgstr ""
+
+#: register_post_type.php:813
+#@ themesky
+msgid "Slider Responsive Options"
+msgstr ""
+
+#: register_post_type.php:818
+#@ themesky
+msgid "Breakpoint from"
+msgstr ""
+
+#: register_post_type.php:822
+#@ themesky
+msgid "Items"
+msgstr ""
+
+#: register_post_type.php:828
+#@ themesky
+msgid "Save changes"
+msgstr ""
+
+#: register_post_type.php:829
+#@ themesky
+msgid "Reset"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2014
+#: shortcodes/woo_shortcodes.php:787
+#@ themesky
+msgid "Days"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2022
+#: shortcodes/woo_shortcodes.php:795
+#@ themesky
+msgid "Hours"
+msgstr ""
+
+#: register_post_type.php:529
+#@ themesky
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: register_post_type.php:530
+#@ themesky
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: register_post_type.php:531
+#@ themesky
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:532
+#@ themesky
+msgid "Add New Testimonial"
+msgstr ""
+
+#: register_post_type.php:533
+#@ themesky
+msgid "Edit Testimonial"
+msgstr ""
+
+#: register_post_type.php:534
+#@ themesky
+msgid "New Testimonial"
+msgstr ""
+
+#: register_post_type.php:535
+#@ themesky
+msgid "All Testimonials"
+msgstr ""
+
+#: register_post_type.php:536
+#@ themesky
+msgid "View Testimonial"
+msgstr ""
+
+#: register_post_type.php:537
+#@ themesky
+msgid "Search Testimonials"
+msgstr ""
+
+#: register_post_type.php:538
+#@ themesky
+msgid "No Testimonials Found"
+msgstr ""
+
+#: register_post_type.php:539
+#@ themesky
+msgid "No Testimonials Found In Trash"
+msgstr ""
+
+#: register_post_type.php:541
+#@ themesky
+msgid "Testimonials"
+msgstr ""
+
+#: register_post_type.php:589
+#@ themesky
+msgid "Enter the customer's name here"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:421
+#: shortcodes/content_shortcodes.php:422
+#, php-format
+#@ themesky
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:543
+#@ themesky
+msgid "All"
+msgstr ""
+
+#: widgets/single_image.php:67
+#@ themesky
+msgid "Link"
+msgstr ""
+
+#: widgets/single_image.php:75
+#@ themesky
+msgid "Target"
+msgstr ""
+
+#: widgets/single_image.php:83
+#@ themesky
+msgid "Image URL"
+msgstr ""
+
+#: widgets/twitter.php:202
+#@ themesky
+msgid "Enter your title"
+msgstr ""
+
+#: register_post_type.php:862
+#@ themesky
+msgctxt "post type general name"
+msgid "Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:863
+#@ themesky
+msgctxt "post type singular name"
+msgid "Footer Block"
+msgstr ""
+
+#: register_post_type.php:865
+#@ themesky
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:866
+#@ themesky
+msgid "Edit Footer Block"
+msgstr ""
+
+#: register_post_type.php:867
+#@ themesky
+msgid "New Footer Block"
+msgstr ""
+
+#: register_post_type.php:868
+#@ themesky
+msgid "All Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:869
+#@ themesky
+msgid "View Footer Block"
+msgstr ""
+
+#: register_post_type.php:870
+#@ themesky
+msgid "Search Footer Block"
+msgstr ""
+
+#: register_post_type.php:871
+#@ themesky
+msgid "No Footer Blocks Found"
+msgstr ""
+
+#: register_post_type.php:872
+#@ themesky
+msgid "No Footer Blocks Found In Trash"
+msgstr ""
+
+#: register_post_type.php:874
+#@ themesky
+msgid "Footer Blocks"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:673
+#: shortcodes/content_shortcodes.php:674
+#@ themesky
+msgid "You liked it"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:673
+#: shortcodes/content_shortcodes.php:674
+#@ themesky
+msgid "Like it"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1456
+#: shortcodes/content_shortcodes.php:1627
+#@ themesky
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1440
+#: shortcodes/content_shortcodes.php:1479
+#: shortcodes/content_shortcodes.php:1611
+#@ themesky
+msgid "Post by "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1848
+#@ themesky
+msgid " on "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1850
+#@ themesky
+msgid "Twitter.com"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1885
+#: widgets/twitter.php:120
+#@ themesky
+msgid "1 min ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1888
+#: widgets/twitter.php:123
+#@ themesky
+msgid " min ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1891
+#: widgets/twitter.php:126
+#@ themesky
+msgid "1 hour ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1894
+#: widgets/twitter.php:129
+#@ themesky
+msgid " hours ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1897
+#: widgets/twitter.php:132
+#@ themesky
+msgid "yesterday"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1900
+#: widgets/twitter.php:135
+#@ themesky
+msgid " days ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1904
+#: widgets/twitter.php:139
+#@ themesky
+msgid "1 month ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1904
+#: widgets/twitter.php:139
+#@ themesky
+msgid " months ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1907
+#: widgets/twitter.php:142
+#@ themesky
+msgid "1 year ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1907
+#: widgets/twitter.php:142
+#@ themesky
+msgid " years ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2030
+#: shortcodes/woo_shortcodes.php:803
+#@ themesky
+msgid "Mins"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2038
+#: shortcodes/woo_shortcodes.php:811
+#@ themesky
+msgid "Secs"
+msgstr ""
+
+#: widgets/single_image.php:71
+#@ themesky
+msgid "Link title"
+msgstr ""
+
+#: widgets/footer_block.php:13
+#@ themesky
+msgid "Insert your footer block"
+msgstr ""
+
+#: widgets/footer_block.php:14
+#@ themesky
+msgid "TS - Footer Block"
+msgstr ""
+
+#: widgets/footer_block.php:60
+#@ themesky
+msgid "Footer Block"
+msgstr ""
+
+#: widgets/single_image.php:13
+#@ themesky
+msgid "Display a single image"
+msgstr ""
+
+#: widgets/single_image.php:14
+#@ themesky
+msgid "TS - Single Image"
+msgstr ""
+
+#: widgets/single_image.php:87
+#@ themesky
+msgid "Style Effect"
+msgstr ""
+
+#: widgets/twitter.php:210
+#@ themesky
+msgid "Limit"
+msgstr ""
+
+#: widgets/twitter.php:13
+#@ themesky
+msgid "Display latest tweets"
+msgstr ""
+
+#: widgets/twitter.php:14
+#@ themesky
+msgid "TS - Twitter"
+msgstr ""
+
+#: widgets/twitter.php:206
+#@ themesky
+msgid "Username"
+msgstr ""
+
+#: widgets/twitter.php:215
+#@ themesky
+msgid "Exclude replies"
+msgstr ""
+
+#: widgets/twitter.php:219
+#@ themesky
+msgid "Relative time"
+msgstr ""
+
+#: widgets/twitter.php:222
+#@ themesky
+msgid "Cache time (hours)"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:102
+#@ themesky
+msgid "Name: "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:103
+#@ themesky
+msgid "Position: "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:105
+#@ themesky
+msgid "Follows: "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1431
+#: shortcodes/content_shortcodes.php:1603
+#, php-format
+#@ themesky
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/twitter.php:230
+#@ themesky
+msgid "Consumer key"
+msgstr ""
+
+#: widgets/twitter.php:234
+#@ themesky
+msgid "Consumer secret"
+msgstr ""
+
+#: widgets/twitter.php:238
+#@ themesky
+msgid "Access token"
+msgstr ""
+
+#: widgets/twitter.php:242
+#@ themesky
+msgid "Access token secret"
+msgstr ""
+
+#: widgets/single_image.php:77
+#@ themesky
+msgid "New Window Tab"
+msgstr ""
+
+#: widgets/single_image.php:78
+#@ themesky
+msgid "Self"
+msgstr ""
+
+#: widgets/single_image.php:89
+#@ themesky
+msgid "Widespread Left Right"
+msgstr ""
+
+#: widgets/single_image.php:90
+#@ themesky
+msgid "Border Scale"
+msgstr ""
+
+#: widgets/single_image.php:91
+#@ themesky
+msgid "Background Fade Icon"
+msgstr ""
+
+#: widgets/twitter.php:227
+#@ themesky
+msgid "API Keys: "
+msgstr ""
+
+#: widgets/twitter.php:227
+#@ themesky
+msgid "if you dont input your API Keys, it will use our API Keys."
+msgstr ""
+

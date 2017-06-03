@@ -1,0 +1,1 @@
+a:7:{i:0;s:17:"Footer categories";i:1;s:13:"Footer social";i:2;s:18:"Coming soon social";i:3;s:27:"Vertical Menu Supermarket 2";i:4;s:11:"Footer menu";i:5;s:25:"Footer supermarket 4 tags";i:6;s:27:"Footer social supermarket 6";}

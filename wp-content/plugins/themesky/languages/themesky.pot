@@ -1,0 +1,630 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-09 12:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: register_post_type.php:43
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:44
+msgctxt "post type singular name"
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:45
+msgid "All Portfolios"
+msgstr ""
+
+#: register_post_type.php:46
+msgctxt "Team"
+msgid "Add Portfolio"
+msgstr ""
+
+#: register_post_type.php:47
+msgid "Add Portfolio"
+msgstr ""
+
+#: register_post_type.php:48
+msgid "Edit Portfolio"
+msgstr ""
+
+#: register_post_type.php:49
+msgid "New Portfolio"
+msgstr ""
+
+#: register_post_type.php:50
+msgid "View Portfolio"
+msgstr ""
+
+#: register_post_type.php:51
+msgid "Search Portfolio"
+msgstr ""
+
+#: register_post_type.php:52
+msgid "No Portfolio found"
+msgstr ""
+
+#: register_post_type.php:53
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: register_post_type.php:55
+msgid "Portfolios"
+msgstr ""
+
+#: register_post_type.php:57
+msgid "Portfolio"
+msgstr ""
+
+#: register_post_type.php:78 register_post_type.php:564 
+#: register_post_type.php:725
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:79 register_post_type.php:565 
+#: register_post_type.php:726
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: register_post_type.php:80 register_post_type.php:566 
+#: register_post_type.php:727
+msgid "Search Categories"
+msgstr ""
+
+#: register_post_type.php:81 register_post_type.php:567 
+#: register_post_type.php:728
+msgid "All Categories"
+msgstr ""
+
+#: register_post_type.php:82 register_post_type.php:568 
+#: register_post_type.php:729
+msgid "Parent Category"
+msgstr ""
+
+#: register_post_type.php:83 register_post_type.php:569 
+#: register_post_type.php:730
+msgid "Parent Category:"
+msgstr ""
+
+#: register_post_type.php:84 register_post_type.php:570 
+#: register_post_type.php:731
+msgid "Edit Category"
+msgstr ""
+
+#: register_post_type.php:85 register_post_type.php:571 
+#: register_post_type.php:732
+msgid "Update Category"
+msgstr ""
+
+#: register_post_type.php:86 register_post_type.php:572 
+#: register_post_type.php:733
+msgid "Add New Category"
+msgstr ""
+
+#: register_post_type.php:87 register_post_type.php:573 
+#: register_post_type.php:734
+msgid "New Category Name"
+msgstr ""
+
+#: register_post_type.php:88 register_post_type.php:574 
+#: register_post_type.php:735
+msgid "Categories"
+msgstr ""
+
+#: register_post_type.php:103
+msgid "Enter the portfolio title here"
+msgstr ""
+
+#: register_post_type.php:213 register_post_type.php:472 
+#: register_post_type.php:633
+msgid "Image"
+msgstr ""
+
+#: register_post_type.php:338
+msgctxt "post type general name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:339
+msgctxt "post type singular name"
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:340
+msgid "All Team Members"
+msgstr ""
+
+#: register_post_type.php:341
+msgctxt "Team"
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:342
+msgid "Add Member"
+msgstr ""
+
+#: register_post_type.php:343
+msgid "Edit Member"
+msgstr ""
+
+#: register_post_type.php:344
+msgid "New Member"
+msgstr ""
+
+#: register_post_type.php:345
+msgid "View Member"
+msgstr ""
+
+#: register_post_type.php:346
+msgid "Search Member"
+msgstr ""
+
+#: register_post_type.php:347
+msgid "No Member found"
+msgstr ""
+
+#: register_post_type.php:348
+msgid "No Member found in Trash"
+msgstr ""
+
+#: register_post_type.php:350
+msgid "Team Members"
+msgstr ""
+
+#: register_post_type.php:352
+msgid "Team"
+msgstr ""
+
+#: register_post_type.php:373
+msgid "Enter the member name here"
+msgstr ""
+
+#: register_post_type.php:472
+msgid "Role"
+msgstr ""
+
+#: register_post_type.php:474
+msgid "Member name"
+msgstr ""
+
+#: register_post_type.php:529
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: register_post_type.php:530
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: register_post_type.php:531
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:532
+msgid "Add New Testimonial"
+msgstr ""
+
+#: register_post_type.php:533
+msgid "Edit Testimonial"
+msgstr ""
+
+#: register_post_type.php:534
+msgid "New Testimonial"
+msgstr ""
+
+#: register_post_type.php:535
+msgid "All Testimonials"
+msgstr ""
+
+#: register_post_type.php:536
+msgid "View Testimonial"
+msgstr ""
+
+#: register_post_type.php:537
+msgid "Search Testimonials"
+msgstr ""
+
+#: register_post_type.php:538
+msgid "No Testimonials Found"
+msgstr ""
+
+#: register_post_type.php:539
+msgid "No Testimonials Found In Trash"
+msgstr ""
+
+#: register_post_type.php:541
+msgid "Testimonials"
+msgstr ""
+
+#: register_post_type.php:589
+msgid "Enter the customer's name here"
+msgstr ""
+
+#: register_post_type.php:690
+msgctxt "post type general name"
+msgid "Logos"
+msgstr ""
+
+#: register_post_type.php:691
+msgctxt "post type singular name"
+msgid "Logo"
+msgstr ""
+
+#: register_post_type.php:692 register_post_type.php:864
+msgctxt "logo"
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:693
+msgid "Add New Logo"
+msgstr ""
+
+#: register_post_type.php:694
+msgid "Edit Logo"
+msgstr ""
+
+#: register_post_type.php:695
+msgid "New Logo"
+msgstr ""
+
+#: register_post_type.php:696
+msgid "All Logos"
+msgstr ""
+
+#: register_post_type.php:697
+msgid "View Logo"
+msgstr ""
+
+#: register_post_type.php:698
+msgid "Search Logos"
+msgstr ""
+
+#: register_post_type.php:699
+msgid "No Logos Found"
+msgstr ""
+
+#: register_post_type.php:700
+msgid "No Logos Found In Trash"
+msgstr ""
+
+#: register_post_type.php:702
+msgid "Logos"
+msgstr ""
+
+#: register_post_type.php:749 register_post_type.php:780
+msgid "Logo Settings"
+msgstr ""
+
+#: register_post_type.php:750
+msgid "Settings"
+msgstr ""
+
+#: register_post_type.php:783
+msgid "Image Size"
+msgstr ""
+
+#: register_post_type.php:784
+msgid "You must regenerate thumbnails after changing"
+msgstr ""
+
+#: register_post_type.php:788
+msgid "Image width"
+msgstr ""
+
+#: register_post_type.php:791
+msgid "Input image width (In pixels)"
+msgstr ""
+
+#: register_post_type.php:795
+msgid "Image height"
+msgstr ""
+
+#: register_post_type.php:798
+msgid "Input image height (In pixels)"
+msgstr ""
+
+#: register_post_type.php:802
+msgid "Crop"
+msgstr ""
+
+#: register_post_type.php:808
+msgid "Crop image after uploading"
+msgstr ""
+
+#: register_post_type.php:813
+msgid "Slider Responsive Options"
+msgstr ""
+
+#: register_post_type.php:818
+msgid "Breakpoint from"
+msgstr ""
+
+#: register_post_type.php:822
+msgid "Items"
+msgstr ""
+
+#: register_post_type.php:828
+msgid "Save changes"
+msgstr ""
+
+#: register_post_type.php:829
+msgid "Reset"
+msgstr ""
+
+#: register_post_type.php:862
+msgctxt "post type general name"
+msgid "Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:863
+msgctxt "post type singular name"
+msgid "Footer Block"
+msgstr ""
+
+#: register_post_type.php:865
+msgid "Add New"
+msgstr ""
+
+#: register_post_type.php:866
+msgid "Edit Footer Block"
+msgstr ""
+
+#: register_post_type.php:867
+msgid "New Footer Block"
+msgstr ""
+
+#: register_post_type.php:868
+msgid "All Footer Blocks"
+msgstr ""
+
+#: register_post_type.php:869
+msgid "View Footer Block"
+msgstr ""
+
+#: register_post_type.php:870
+msgid "Search Footer Block"
+msgstr ""
+
+#: register_post_type.php:871
+msgid "No Footer Blocks Found"
+msgstr ""
+
+#: register_post_type.php:872
+msgid "No Footer Blocks Found In Trash"
+msgstr ""
+
+#: register_post_type.php:874
+msgid "Footer Blocks"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:102
+msgid "Name: "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:103
+msgid "Position: "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:105
+msgid "Follows: "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:421 shortcodes/content_shortcodes.php:422
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:543
+msgid "All"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:673 shortcodes/content_shortcodes.php:674
+msgid "You liked it"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:673 shortcodes/content_shortcodes.php:674
+msgid "Like it"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1436 
+#: shortcodes/content_shortcodes.php:1613
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcodes/content_shortcodes.php:1445 
+#: shortcodes/content_shortcodes.php:1484 
+#: shortcodes/content_shortcodes.php:1621
+msgid "Post by "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1461 
+#: shortcodes/content_shortcodes.php:1637
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1858
+msgid " on "
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1860
+msgid "Twitter.com"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1895 widgets/twitter.php:120
+msgid "1 min ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1898 widgets/twitter.php:123
+msgid " min ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1901 widgets/twitter.php:126
+msgid "1 hour ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1904 widgets/twitter.php:129
+msgid " hours ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1907 widgets/twitter.php:132
+msgid "yesterday"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1910 widgets/twitter.php:135
+msgid " days ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1914 widgets/twitter.php:139
+msgid "1 month ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1914 widgets/twitter.php:139
+msgid " months ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1917 widgets/twitter.php:142
+msgid "1 year ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:1917 widgets/twitter.php:142
+msgid " years ago"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2024 shortcodes/woo_shortcodes.php:799
+msgid "Days"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2032 shortcodes/woo_shortcodes.php:807
+msgid "Hours"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2040 shortcodes/woo_shortcodes.php:815
+msgid "Mins"
+msgstr ""
+
+#: shortcodes/content_shortcodes.php:2048 shortcodes/woo_shortcodes.php:823
+msgid "Secs"
+msgstr ""
+
+#: widgets/footer_block.php:13
+msgid "Insert your footer block"
+msgstr ""
+
+#: widgets/footer_block.php:14
+msgid "TS - Footer Block"
+msgstr ""
+
+#: widgets/footer_block.php:60
+msgid "Footer Block"
+msgstr ""
+
+#: widgets/single_image.php:13
+msgid "Display a single image"
+msgstr ""
+
+#: widgets/single_image.php:14
+msgid "TS - Single Image"
+msgstr ""
+
+#: widgets/single_image.php:67
+msgid "Link"
+msgstr ""
+
+#: widgets/single_image.php:71
+msgid "Link title"
+msgstr ""
+
+#: widgets/single_image.php:75
+msgid "Target"
+msgstr ""
+
+#: widgets/single_image.php:83
+msgid "Image URL"
+msgstr ""
+
+#: widgets/single_image.php:87
+msgid "Style Effect"
+msgstr ""
+
+#: widgets/twitter.php:13
+msgid "Display latest tweets"
+msgstr ""
+
+#: widgets/twitter.php:14
+msgid "TS - Twitter"
+msgstr ""
+
+#: widgets/twitter.php:202
+msgid "Enter your title"
+msgstr ""
+
+#: widgets/twitter.php:206
+msgid "Username"
+msgstr ""
+
+#: widgets/twitter.php:210
+msgid "Limit"
+msgstr ""
+
+#: widgets/twitter.php:215
+msgid "Exclude replies"
+msgstr ""
+
+#: widgets/twitter.php:219
+msgid "Relative time"
+msgstr ""
+
+#: widgets/twitter.php:222
+msgid "Cache time (hours)"
+msgstr ""
+
+#: widgets/twitter.php:230
+msgid "Consumer key"
+msgstr ""
+
+#: widgets/twitter.php:234
+msgid "Consumer secret"
+msgstr ""
+
+#: widgets/twitter.php:238
+msgid "Access token"
+msgstr ""
+
+#: widgets/twitter.php:242
+msgid "Access token secret"
+msgstr ""
+
+#. Name of the plugin
+msgid "ThemeSky"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add shortcodes and custom post types for Theme-Sky's Themes"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://theme-sky.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeSky Team"
+msgstr ""
